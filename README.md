@@ -1,3 +1,4 @@
 # Jack-iu02
 
-https://creativecommons.org/licenses/by/4.0/
+![](https://creativecommons.org/licenses/by/4.0/)
+Este trabalho está licenciado sob CC BY 4.0© 2 por J 
